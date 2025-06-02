@@ -7,7 +7,7 @@ document.querySelector('#app').innerHTML = `
   <div>
     <h1 class = "text-2xl font-bold text-primary" >Hello Vite!</h1>
     <div class="card">
-      <button id="counter" type="button" class="bg-blue-500 px-4" ></button>
+      <button id="counter" type="button" class="bg-blue-500 p-4" ></button>
     </div>
   </div>
 `
